@@ -1,6 +1,6 @@
 function hello() {
 
-condole.log ('hello bonjour ');
+condole.log ('hello tous le monde');
 
 }
 hello();
